@@ -7,7 +7,7 @@
     "test": "jest",
     "lint": "eslint ."
   },
-  "author": "",
+  "author": "Aumit Leon <aleon@middlebury.edu>",
   "contributors": [
     "Christopher Andrews <candrews@middlebury.edu>",
     "Michael Linderman <mlinderman@middlebury.edu>"
